@@ -1,0 +1,4 @@
+**/*.txt
+slack_names_and_faces/**
+.idea
+venv
